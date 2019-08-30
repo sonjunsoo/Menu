@@ -9,6 +9,6 @@
 <body>
 <h1>대문</h1><br>
 문을 여시오.<br>
-<a href="join.jsp">회원 가입</a> <!-- 링크 태그 -->
+<a href="jtest.jsp">회원 가입</a> <!-- 링크 태그 -->
 </body>
 </html>
